@@ -1,5 +1,5 @@
 # TopCryptoPrice_realtime
-price of 5 top cryptocurrency Based on Name, Price, Price rial, Rank Market, CapPrice Balance and icons| realtime version
+price of 5 top cryptocurrency Based on Name, Price, Price to rial, Rank Market, CapPrice Balance and icons| realtime version
 
 install project
 
