@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'coins',
     'mathfilters',
     'django.contrib.humanize',
+    'pycoingecko',
 ]
 
 MIDDLEWARE = [
