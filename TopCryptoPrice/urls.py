@@ -20,3 +20,4 @@ urlpatterns = [
     path('', include('coins.urls')),
     path('admin/', admin.site.urls),
 ]
+ 
